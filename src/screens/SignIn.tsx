@@ -117,7 +117,7 @@ export function SignIn() {
 
         <Center mt={24}>
           <Text color="gray.100" fontSize="sm" mb={3} fontFamily="body">
-            Ainda não tenho acesso
+            Ainda não tenho acesso?
           </Text>
 
           <Button 
